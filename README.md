@@ -1,4 +1,4 @@
-# Kafka Beam Flink Application
+# Kafka Beam  Application
 
 ## Project Summary
 
@@ -30,7 +30,7 @@ kafka-beam-flink-app/
 
 ## Technologies Used
 
-- **Apache Beam or Flink**: For building the data processing pipeline.
+- **Apache Beam**: For building the data processing pipeline.
 - **Kafka**: For message brokering.
 - **Python**: The programming language for implementation.
 - **SQLAlchemy**: For data persistence.
