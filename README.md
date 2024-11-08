@@ -41,7 +41,7 @@ kafka-beam-flink-app/
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/kafka-beam-flink-app.git
+   git clone https://github.com/suranimayur/kafka-beam-flink-app.git
    cd kafka-beam-flink-app
    ```
 
