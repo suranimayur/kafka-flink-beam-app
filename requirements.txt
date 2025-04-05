@@ -1,0 +1,19 @@
+# Apache Beam dependencies
+apache-beam[gcp]==2.46.0
+
+# Kafka dependencies
+confluent-kafka==2.3.0
+
+# Database dependencies
+SQLAlchemy==1.4.49
+sqlite3-api==2.0.1
+
+# Testing dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Utility dependencies
+python-dateutil==2.8.2
+pytz==2024.1
+pyyaml==6.0.1
+loguru==0.7.2 
